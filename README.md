@@ -1,4 +1,4 @@
-# vedant
+# firebase example
 
 A new Flutter project.
 
