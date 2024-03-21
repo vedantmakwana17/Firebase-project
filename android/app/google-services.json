@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853189510900",
+    "project_id": "vedant-de173",
+    "storage_bucket": "vedant-de173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853189510900:android:f5002d379ac1fc87ab80a1",
+        "android_client_info": {
+          "package_name": "com.example.vedant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKWiyYp-zBGfQqc9FdTQm5tUvyu7SXdNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
